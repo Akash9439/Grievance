@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    justify-content: center;
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
